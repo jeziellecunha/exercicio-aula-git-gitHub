@@ -16,7 +16,7 @@ Tenho duas filhinhas pets chamadas :dog: Milk e :dog: Vanilla.
 
 Moro na cidade de Igarassu-PE, onde tem uma praia belíssima :ocean::tropical_fish::fish: chamada Coroa do Avião.
 
-![Coroa do Avião](C:\Users\Vitor\Desktop\Reprograma Workshop-Backend\exercicio1-git-gitHub\coroaDoAviao.jpg)
+![Coroa do Avião](\coroaDoAviao.jpg)
 
 
 
